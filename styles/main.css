@@ -1,4 +1,8 @@
 .board {
   background-color: rgb(218,165,32);
   box-sizing: border-box;
+  color: white;
+  width: 590px;
+  height: 194px;
+  text-align: left;
 }
