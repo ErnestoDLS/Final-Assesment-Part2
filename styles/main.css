@@ -1,8 +1,21 @@
+
+
 .board {
   background-color: rgb(218,165,32);
   box-sizing: border-box;
-  color: white;
   width: 590px;
   height: 194px;
-  text-align: left;
+  font-size: 20px;
+}
+
+.board__li {
+  font-size: 20px;
+  list-style: none;
+}
+
+.bjj__board {
+  box-sizing: border-box;
+  background-color: rgb(218,165,32);
+  height: 540px;
+  width: 820;
 }
