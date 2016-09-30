@@ -7,7 +7,7 @@ import Board  from './lib/Board'
 render((
   <Router history={browserHistory}>
     <Route path="/" component={App}>
-      <Route path="/board" component={Board}/>
+      <Route path="/Board" component={Board}/>
     </Route>
   </Router>
 ), document.getElementById('app'))
